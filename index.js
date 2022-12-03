@@ -3,7 +3,7 @@ import solutions from "./solutions/index.js";
 
 // solutions.s01();
 // solutions.s02();
-// solutions.s03();
+solutions.s03();
 // solutions.s04();
 // solutions.s05();
 // solutions.s06();
